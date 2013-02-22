@@ -98,11 +98,6 @@ p{
 	display: inline-block;
 }
 
-.column{
-	height: 100%;
-	display: inline-block;
-}
-
 .top {
 	margin-top: 5px;
 }
@@ -158,4 +153,8 @@ p{
 .iconbutton img{
 	height: 16px;
 	width: 16px;
+}
+
+.bold{
+	font-weight: bold;
 }
